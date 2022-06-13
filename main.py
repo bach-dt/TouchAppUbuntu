@@ -79,7 +79,7 @@ class SerialThread(QtCore.QThread):
     def run(self):
         while True:
             try:
-                ser = Serial(port='/dev/ttyACM0', baudrate=115200)
+                ser = Serial(port='/dev/ttyUSB0', baudrate=115200)
                 rfid = str(ser.readline())
                 if rfid != "b''":
                     rfid = rfid.split(":  ")[1].split("\\")[0]
