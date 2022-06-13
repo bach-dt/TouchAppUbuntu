@@ -1,0 +1,55 @@
+{
+  "166 211 142 229": {
+    "name": "\u0110\u1eb7ng Tr\u1ea7n B\u00e1ch",
+    "mail": "Bach_dt190103_sis_hust_edu_vn",
+    "Monday": {
+      "section1": {
+        "room": "306",
+        "subject": "Ch\u1ebf t\u1ea1o m\u00e1y",
+        "period": "1-3"
+      },
+      "section2": {
+        "period": "4-6",
+        "subject": "Ch\u1ebf t\u1ea1o khu\u00f4n",
+        "room": "307"
+      },
+      "section3": {
+        "period": "7-9",
+        "subject": "\u0110\u1ea1i s\u1ed1",
+        "room": "306"
+      },
+      "section4": {
+        "room": "307",
+        "period": "10-12",
+        "subject": "C\u01a1 h\u1ecdc k\u1ef9 thu\u1eadt"
+      }
+    },
+    "Tuesday": {
+      "section1": {
+        "room": "306",
+        "subject": "Nguy\u00ean l\u00fd m\u00e1y",
+        "period": "1-3"
+      },
+      "section2": {
+        "subject": "V\u1eadt li\u1ec7u h\u1ecdc",
+        "period": "4-6",
+        "room": "307"
+      },
+      "section3": {
+        "subject": "\u0110\u1ed3 h\u1ecda 1",
+        "room": "306",
+        "period": "7-9"
+      },
+      "section4": {
+        "room": "307",
+        "subject": "K\u1ef9 thu\u1eadt nhi\u1ec7t",
+        "period": "10-12"
+      }
+    },
+    "Wednesday": {},
+    "Thursday": {},
+    "Friday": {},
+    "Saturday": {},
+    "Sunday": {}
+  }
+}
